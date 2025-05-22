@@ -12,6 +12,7 @@ Most of my work involves building tools and workflows that make data collection 
 - Remote and proximal sensing 
 
 **About Me**
+
 I enjoy collaborating on open-source projects, teaching data science, and finding practical solutions for research challenges. If you’re interested in crop modeling, data pipelines, or just want to swap ideas about making plant science research more reproducible, feel free to reach out.
 
 **Find me on:**
