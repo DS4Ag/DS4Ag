@@ -1,6 +1,6 @@
 ### Luis Vargas Rojas
 
-I’m a PhD candidate in Agronomy at Purdue University. My background is in crop research and data science, with a focus on wheat and soybean phenotyping, field trials, and crop modeling—especially for drought and heat stress.
+Postdoctoral Scholar at the University of Kentucky. Interested in crop research, field trials, and data science. I develop open-source tools and workflows for wheat modeling under drought and heat, using remote/proximal sensing, R, Python, and SQL. Experienced in publishing, teaching, and scientific collaboration. Open to new projects!
 
 Most of my work involves building tools and workflows that make data collection and analysis easier for plant science.
 
